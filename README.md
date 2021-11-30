@@ -1,5 +1,5 @@
 ### Hi there 👋
-:bust_in_silhouette: #About Me
+:bust_in_silhouette: # About Me
 <!--
 **Therealchyke/Therealchyke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
